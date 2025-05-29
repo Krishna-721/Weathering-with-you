@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Weathering-with-you/static/css/main.f43b8818.css",
-    "main.js": "/Weathering-with-you/static/js/main.e80b851a.js",
-    "static/js/453.0ccb7fb4.chunk.js": "/Weathering-with-you/static/js/453.0ccb7fb4.chunk.js",
-    "index.html": "/Weathering-with-you/index.html",
-    "main.f43b8818.css.map": "/Weathering-with-you/static/css/main.f43b8818.css.map",
-    "main.e80b851a.js.map": "/Weathering-with-you/static/js/main.e80b851a.js.map",
-    "453.0ccb7fb4.chunk.js.map": "/Weathering-with-you/static/js/453.0ccb7fb4.chunk.js.map"
+    "main.css": "/WeatherApp/static/css/main.f43b8818.css",
+    "main.js": "/WeatherApp/static/js/main.b3e357a7.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/WeatherApp/static/js/453.0ccb7fb4.chunk.js",
+    "index.html": "/WeatherApp/index.html",
+    "main.f43b8818.css.map": "/WeatherApp/static/css/main.f43b8818.css.map",
+    "main.b3e357a7.js.map": "/WeatherApp/static/js/main.b3e357a7.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/WeatherApp/static/js/453.0ccb7fb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f43b8818.css",
-    "static/js/main.e80b851a.js"
+    "static/js/main.b3e357a7.js"
   ]
 }
